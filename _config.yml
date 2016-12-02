@@ -2,3 +2,12 @@ permalink: pretty
 
 sass:
   style: compressed
+
+exclude:
+  - .gitignore
+  - .sass-cache
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - _vendor
+  - CNAME

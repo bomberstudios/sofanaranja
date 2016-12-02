@@ -7,7 +7,7 @@ layout: post
 guid: http://sofanaranja.com/?p=341
 permalink: /2009/08/03/presentando-orangecommands/
 onswipe_thumb:
-  - /img/key_control.png
+  - /images/key_control.png
 categories:
   - Código
   - Diseño
@@ -46,7 +46,7 @@ Pues empezó haciendo retículas (y llamándose [Reticulator](/reticulator/)), y
 
 - **Reticulator**, nuestro viejo conocido, ahora tiene un atajo de teclado para la retícula más habitual (la 960-16-9).
 
-- **Rodear de guías una selección con el teclado**. Selecciona lo-que-sea, dale a ![key_control.png](/img/key_control.png)![Plus](/img/key_plus.png)![Shift](/img/key_shift.png)![Plus](/img/key_plus.png)![W](/img/key_w.png), y tendrás cuatro guías enmarcando tu selección. Esto debo usarlo unas 400 veces al día, y la inspiración (y el atajo de teclado :) vienen directamente de TextMate.
+- **Rodear de guías una selección con el teclado**. Selecciona lo-que-sea, dale a ![key_control.png](/images/key_control.png)![Plus](/images/key_plus.png)![Shift](/images/key_shift.png)![Plus](/images/key_plus.png)![W](/images/key_w.png), y tendrás cuatro guías enmarcando tu selección. Esto debo usarlo unas 400 veces al día, y la inspiración (y el atajo de teclado :) vienen directamente de TextMate.
 
 - **Posicionar elementos con el teclado**. ¿He dicho que Fireworks es lento?
 

@@ -48,7 +48,7 @@ Este era tu código antes del 'cwt':
 
 	<table width="768px">
 		<tr>
-			<td><img src="/img/spacer.gif" width="768" height="1" /></td>
+			<td><img src="/images/spacer.gif" width="768" height="1" /></td>
 		</tr>
 	</table>
 
@@ -58,7 +58,7 @@ y éste es tu código después del 'cwt':
 	<cwt>
 		<table width="768px">
 			<tr>
-				<td><img src="/img/spacer.gif" width="768" height="1" /></td>
+				<td><img src="/images/spacer.gif" width="768" height="1" /></td>
 			</tr>
 		</table>
 	</cwt>

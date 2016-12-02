@@ -75,6 +75,14 @@ a:hover {
   background-color: $orange;
 }
 
+blockquote {
+  margin: 0;
+  padding: 1em 2em;
+  background-color: #eee;
+  font-style: italic;
+  border-radius: 0.3em;
+}
+
 ul {
   list-style-type: square;
 }

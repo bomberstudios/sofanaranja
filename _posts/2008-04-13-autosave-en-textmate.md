@@ -7,7 +7,7 @@ layout: post
 guid: http://sofanaranja.com/2008/04/13/autosave-en-textmate/
 permalink: /2008/04/13/autosave-en-textmate/
 onswipe_thumb:
-  - 'http://sofanaranja.com/wp-content/plugins/onswipe/thumb/thumb.php?src=/images/2008/04/textmate-save-files-when-focus-is-lost.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - 'http://sofanaranja.com/images/plugins/onswipe/thumb/thumb.php?src=/images/2008/04/textmate-save-files-when-focus-is-lost.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
   - TextMate
 tags:

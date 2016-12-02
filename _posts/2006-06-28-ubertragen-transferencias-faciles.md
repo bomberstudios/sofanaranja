@@ -11,7 +11,7 @@ categories:
   - Mac
   - Software
 ---
-<img src='/wp-content/ubertragen_icon.png' alt='Icono de Übertragen' />
+<img src='/images/ubertragen_icon.png' alt='Icono de Übertragen' />
 
 Si tienes la fortuna de trabajar en un departamento con varios Macs, y necesitas enviar y recibir ficheros de cierta envergadura, este widget de Dashboard es una joyita. Ligero, rápido, y tan fácil de usar que casi da verguenza.
 
@@ -21,7 +21,7 @@ Instrucciones:
 
 2. Activa la opción de recibir ficheros vía Bonjour:
 
-  <img src='/wp-content/ubertragen_bonjour.png' alt='Opcion Bonjour en Ubertragen' />
+  <img src='/images/ubertragen_bonjour.png' alt='Opcion Bonjour en Ubertragen' />
 
 3. Arrastra un fichero al icono de Übertragen y elige un destinatario.
 

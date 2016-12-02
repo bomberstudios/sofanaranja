@@ -15,7 +15,7 @@ Más cosas que me fascinan de [Textmate](http://macromates.com/)...
 
 Si estás editando una aplicación de [Ruby on Rails](http://www.rubyonrails.org/) puedes instalar el plugin [textmate_footnotes](http://www.agilewebdevelopment.com/plugins/textmate_footnotes) (que viene “de serie” en Textmate) y podrás abrir el controlador, la vista o el layout que tengas abierto en el navegador con un sólo click:
 
-![TextMate footnotes plugin](/wp-content/textmate_footnotes_plugin.png)
+![TextMate footnotes plugin](/images/textmate_footnotes_plugin.png)
 
 No es que yo viva de desarrollar Rails, pero para [un proyecto reciente](http://canaltcm.com/) me habría venido de coña.
 

@@ -7,13 +7,13 @@ layout: post
 guid: http://www.sofanaranja.com/?p=66
 permalink: /2006/04/26/phaidon-design-classics/
 onswipe_thumb:
-  - /wp-content/phaidon_design_classics.PNG
+  - /images/phaidon_design_classics.PNG
 categories:
   - Diseño
 ---
 Erm...
 
-[<img src='/wp-content/phaidon_design_classics.PNG' alt='' />][1]
+[<img src='/images/phaidon_design_classics.PNG' alt='' />][1]
 
 Esto va de cabeza a la wishlist de Amazon... :D
 

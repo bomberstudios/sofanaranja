@@ -27,11 +27,11 @@ Como siempre, una imagen vale más que mil palabras:
 
 Original:
 
-<img src='/wp-content/050816_v20_clean.jpg' alt='' />
+<img src='/images/050816_v20_clean.jpg' alt='' />
 
 Después de pasar por un ciclo corto de Machine Wash:
 
-<img src='/wp-content/050816_v20_peel.jpg' alt='' />
+<img src='/images/050816_v20_peel.jpg' alt='' />
 
 ¿Impresionante, verdad?
 

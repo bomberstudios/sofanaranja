@@ -35,19 +35,19 @@ Ponemos los datos del subdominio, prestando especial a estos detalles:
 * Elegir "Fully Hosted" (para que nos cree un directorio nuevo para el site)
 * Habilitar FastCGI
 
-<img src='/wp-content/ror_dh_001_domain.png' alt='' />
+<img src='/images/ror_dh_001_domain.png' alt='' />
 
 Le damos a OK, esperamos un ratillo (10-15 minutos) y accedemos vía Telnet o SSH a nuestro servidor. Si vemos una carpeta en nuestra home llamada 'rails.tudominio.com' (o como sea que le hayas puesto a tu subdominio) ya podemos crear nuestra primera aplicación en Rails.
 
 Prepárate, porque lo que viene ahora es bastante duro:
 
-<img src='/wp-content/ror_dh_002_ssh.png' alt='' />
+<img src='/images/ror_dh_002_ssh.png' alt='' />
 
 Y ya está... complicado, ¿eh?
 
 Si ahora abres un navegador y te vas a http://rails.tudominio.com/nombre_de_aplicacion/public/ (ojo con la / final, sin ella a mí no me rula) verás una bonita pantalla de bienvenida:
 
-<img src='/wp-content/ror_dh_003_welcome.png' alt='' />
+<img src='/images/ror_dh_003_welcome.png' alt='' />
 
 Si es así, y todo funciona correctamente, es el momento de fortificar la instalación de Rails: si la dejas como está, cualquiera puede ir a la carpeta /blog/config/ y leer el nombre de usuario y contraseña de database.yml.
 

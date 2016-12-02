@@ -16,7 +16,7 @@ El trabajo fue particularmente interesante, la relación con el cliente fantást
 
 Después de darle miles de vueltas al asunto, la imagen corporativa se ideó como una pequeña historia (uno de esos “logos con explicación” que uno estudia cuando es jovencillo). La presentación del logo causó tan buena impresión que se decidió [incluirla en la entrada de la página web][John Medina].
 
-![Logo John Medina](/wp-content/logo_john_medina.jpg)
+![Logo John Medina](/images/logo_john_medina.jpg)
 
 En una bella pirueta del destino, justo cuando celebro mi primera década como diseñador, un pajarito me cuenta que he alcanzado la cima de mi carrera: [me han fusilado un diseño](http://www.thebrandcompany.co.uk/) :)
 

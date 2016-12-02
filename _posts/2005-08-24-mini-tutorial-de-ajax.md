@@ -221,4 +221,4 @@ Para más información, y un tutorial más completo sobre XMLHttpRequest (incluy
 
 [1]: http://developer.apple.com/internet/webcontent/xmlhttpreq.html
 [2]: http://es.wikipedia.org/wiki/AJAX
-[3]: http://www.sofanaranja.com/wp-content/minitutorial-ajax.zip
+[3]: http://www.sofanaranja.com/images/minitutorial-ajax.zip

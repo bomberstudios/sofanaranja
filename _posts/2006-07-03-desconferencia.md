@@ -18,7 +18,7 @@ Obviamente, habrá que ir puliendo detalles, pero realmente fue uno de esos día
 
 Para los impacientes: los podcasts los están peinando, y yo tengo la (titánica) tarea de procesar esto:
 
-<img src='/wp-content/videos_de_la_desconferencia_1.png' alt='Los vídeos de la desconferencia...' />
+<img src='/images/videos_de_la_desconferencia_1.png' alt='Los vídeos de la desconferencia...' />
 
 y convertirlo en algo digerible :D
 

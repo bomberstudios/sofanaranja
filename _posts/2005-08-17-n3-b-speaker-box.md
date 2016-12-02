@@ -11,7 +11,7 @@ categories:
 ---
 Sin palabras...
 
-[<img src='/wp-content/050817_n3b_speakers.jpg' alt='' />][1]
+[<img src='/images/050817_n3b_speakers.jpg' alt='' />][1]
 
 
 [1]: http://www.kidrobot.com/shop.php?sku=8370&Category=Asian%20Vinyl

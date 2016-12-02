@@ -11,7 +11,7 @@ categories:
 ---
 > "Functional visualizations are more than innovative statistical analyses and computational algorithms. They must make sense to the user and require a visual language system that uses colour, shape, line, hierarchy and composition to communicate clearly and appropriately, much like the alphabetic and character-based languages used worldwide between humans."
 
-<img src='/wp-content/vc.png' alt='' />
+<img src='/images/vc.png' alt='' />
 
 Así se presenta ["Visual Complexity"][1], un repositorio de trabajos de "visualización de información en sistemas complejos" (o sea: cómo presentar cantidades ingentes de información de una forma más o menos digerible)
 

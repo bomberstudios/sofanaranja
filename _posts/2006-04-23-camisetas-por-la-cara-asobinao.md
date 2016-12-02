@@ -17,9 +17,9 @@ En esta entrega de "Camisetas Por La Cara", rendimos un pequeño homenaje a ese 
 
 La camiseta de la imagen es de la temporada de primavera 2006 de H&M, y combina ferpectamente con los motivos deportivos del diseño (que es un si mismo una pequeña contradicción):
 
-<img src='/wp-content/sn_camiseta_001_asobinao.png' alt='' />
+<img src='/images/sn_camiseta_001_asobinao.png' alt='' />
 
-Te ofrecemos el <a href='/wp-content/sn_camisetas_001_asobinao.pdf' title=''>diseño en PDF</a> para que localices un impresor de confianza y te hagas tu propia camiseta, sin pagar absurdos gastos de envío :D
+Te ofrecemos el <a href='/images/sn_camisetas_001_asobinao.pdf' title=''>diseño en PDF</a> para que localices un impresor de confianza y te hagas tu propia camiseta, sin pagar absurdos gastos de envío :D
 
 
 [1]: http://youtube.com/results?search=superñoño

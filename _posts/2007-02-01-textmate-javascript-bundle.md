@@ -7,7 +7,7 @@ layout: post
 guid: http://sofanaranja.com/2007/02/01/textmate-javascript-bundle/
 permalink: /2007/02/01/textmate-javascript-bundle/
 onswipe_thumb:
-  - 'http://sofanaranja.com/wp-content/plugins/onswipe/thumb/thumb.php?src=/images/2007/02/textmate-javascript-tools.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - 'http://sofanaranja.com/images/plugins/onswipe/thumb/thumb.php?src=/images/2007/02/textmate-javascript-tools.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
   - JavaScript
   - TextMate

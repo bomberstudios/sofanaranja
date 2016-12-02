@@ -23,14 +23,14 @@ Problema: añadir un watermark o sello a **todas** las imágenes de un blog de W
 <!--more-->
 En breve, la explicación detallada. De momento tenía que escribir esto, porque me siento particularmente orgulloso de un **tremendo** hack a WordPress y tenía que ponerlo en algún sitio. Ahí van unos pantallazos:
 
-<img src="/wp-content/watermarkgdphpscreenshot01.png" style="border: 1px solid;"/>
+<img src="/images/watermarkgdphpscreenshot01.png" style="border: 1px solid;"/>
 
-<img src="/wp-content/watermarkgdphpscreenshot02.png" style="border: 1px solid;"/>
+<img src="/images/watermarkgdphpscreenshot02.png" style="border: 1px solid;"/>
 
-<img src="/wp-content/watermarkgdphpscreenshot03.png" style="border: 1px solid;"/>
+<img src="/images/watermarkgdphpscreenshot03.png" style="border: 1px solid;"/>
 
 Y "esto" es el watermark (un mini PNG que se incrusta en todas las imágenes, respetando la transparencia y todo):
 
-<img src="http://www.flumo.com/wp-content/watermark.png" style="border: 1px solid;"/>
+<img src="http://www.flumo.com/images/watermark.png" style="border: 1px solid;"/>
 
 **Nota mental:** intentar convertir el hack en un plugin de WordPress.

@@ -18,7 +18,7 @@ Para Sofá Naranja quería añadir esta funcionalidad. Empecé a buscar plugins 
 
 El resultado que quería conseguir es este:
 
-<img src='/wp-content/external_vs_internal_link.png' alt='Enlace interno y externo' style="border: 1px solid #ccc" />
+<img src='/images/external_vs_internal_link.png' alt='Enlace interno y externo' style="border: 1px solid #ccc" />
 
 Los enlaces externos son del mismo color, pero les añado un pequeño icono a la derecha.
 

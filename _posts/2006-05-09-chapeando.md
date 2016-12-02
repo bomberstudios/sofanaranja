@@ -7,7 +7,7 @@ layout: post
 guid: http://www.sofanaranja.com/?p=68
 permalink: /2006/05/09/chapeando/
 onswipe_thumb:
-  - /wp-content/dalachapa.png
+  - /images/dalachapa.png
 categories:
   - Diseño
   - Mis proyectos
@@ -19,6 +19,6 @@ Como todavía no tenía nada que hacer de 3 a 4 de la mañana, y mis <a href="ht
 
 Algún día, con todos ustedes, <a href="http://dalachapa.com">dalachapa.com</a>
 
-<img src='/wp-content/dalachapa.png' alt='' />
+<img src='/images/dalachapa.png' alt='' />
 
 (El logo, de <a href="http://slapstudio.com">Jorge</a>, me parece sublime. Me alegro de tenerlo al lado : )

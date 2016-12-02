@@ -7,7 +7,7 @@ layout: post
 guid: http://www.sofanaranja.com/?p=39
 permalink: /2005/12/25/maravillas-de-la-tecnica-algodon-magico-ipod/
 onswipe_thumb:
-  - /wp-content/ipod_curradito.JPG
+  - /images/ipod_curradito.JPG
 categories:
   - Freak
   - Gadgets
@@ -17,11 +17,11 @@ Todo el que tenga un iPod y sea tan desastroso como yo cuidando sus gadgets, pod
 
 Concretamente, mi iPod 4G con un año justo daba auténtico asco (y hombres recios han llorado al ver el lamentable estado de la pantalla de la pobre criatura)
 
-<img src='/wp-content/ipod_curradito.JPG' alt='' />
+<img src='/images/ipod_curradito.JPG' alt='' />
 
 Hoy, mirando entre las montañas de trastos que tengo acumuladas, me he encontrado con esto:
 
-<img src="/wp-content/algodon_magico.jpg" />
+<img src="/images/algodon_magico.jpg" />
 
 Un bote de "Algodón Mágico" (un producto que todo el mundo debería tener en casa en virtud de sus múltiples utilidades)
 
@@ -31,7 +31,7 @@ Rápidamente, uno va uniendo cabos, y llegado el primer aniversario de mi iPod (
 
 El resultado, tras un par de minutos de frotamientos y posterior limpieza con un pañito húmedo de algodón, es este:
 
-<img src="/wp-content/ipod_limpito.jpg" />
+<img src="/images/ipod_limpito.jpg" />
 
 Para quien no haya visto la pantalla antes, no es una foto impresionante. Pero a mí se me saltan las lágrimas cada vez que la veo y me acuerdo de cómo estaba esto hace 15 minutos...
 

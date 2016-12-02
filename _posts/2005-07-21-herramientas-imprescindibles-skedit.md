@@ -22,27 +22,27 @@ Una de las funcionalidades que me conquistó de skEdit es el 'autocomplete' inte
 
 Un ejemplo: empiezas a escribir un <code>&lt;a</code> y cuando pulsas la barra espaciadora, skEdit te muestra una lista de atributos del tag 'a':
 
-<img src="/wp-content/skedit001.png" style="border: 1px solid #666"/>
+<img src="/images/skedit001.png" style="border: 1px solid #666"/>
 
 Rellenas un par de atributos, y te encuentras con sorpresas como que también autocompleta los valores de algunos atributos:
 
-<img src="/wp-content/skedit003.png" style="border: 1px solid #666"/>
+<img src="/images/skedit003.png" style="border: 1px solid #666"/>
 
 Hasta ahora, nada demasiado especial...
 
 ¿Pero qué pasa si tienes un CSS enlazado en tu HTML?
 
-<img src="/wp-content/skedit004_01.png" style="border: 1px solid #666"/>
+<img src="/images/skedit004_01.png" style="border: 1px solid #666"/>
 
 skEdit identifica las clases que tengas definidas para autocompletar el class!!! Lo mejor de todo es que distingue entre ID y CLASS, para que no confundas tus #footer con tus .footer.
 
 Esta idea de autocompletar usando tus propios elementos se usa también a la hora de insertar imágenes:
 
-<img src="/wp-content/skedit005.png" style="border: 1px solid #666"/>
+<img src="/images/skedit005.png" style="border: 1px solid #666"/>
 
 Y también funciona con los <code>href</code>:
 
-<img src="/wp-content/skedit006.png" style="border: 1px solid #666"/>
+<img src="/images/skedit006.png" style="border: 1px solid #666"/>
 
 Por lo demás, el editor es una delicia de usar. Aparte del maravilloso sistema de autocomplete, otras funcionalidades de skEdit son:
 

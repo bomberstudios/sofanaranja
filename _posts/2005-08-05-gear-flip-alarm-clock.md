@@ -13,6 +13,6 @@ categories:
 ---
 Un maravilloso ejemplo de diseño de producto con alma:
 
-<a href="http://www.littleclockshop.com/gear_flip_alarm_clock.html"><img src='/wp-content/gear_flip_alarm_clock.jpg' alt='' /></a>
+<a href="http://www.littleclockshop.com/gear_flip_alarm_clock.html"><img src='/images/gear_flip_alarm_clock.jpg' alt='' /></a>
 
 $70 por ser para tí (más $36 de gastos de envío a España, maldición...)

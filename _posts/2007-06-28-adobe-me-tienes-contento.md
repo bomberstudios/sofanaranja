@@ -7,7 +7,7 @@ layout: post
 guid: http://sofanaranja.com/2007/06/28/adobe-me-tienes-contento/
 permalink: /2007/06/28/adobe-me-tienes-contento/
 onswipe_thumb:
-  - 'http://sofanaranja.com/wp-content/plugins/onswipe/thumb/thumb.php?src=/images/2007/06/caos-de-botoncillos.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - 'http://sofanaranja.com/images/plugins/onswipe/thumb/thumb.php?src=/images/2007/06/caos-de-botoncillos.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
   - Diseño
   - Mis proyectos

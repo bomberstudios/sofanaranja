@@ -9,7 +9,7 @@ permalink: /2005/11/05/el-arte-del-camuflaje/
 categories:
   - Diseño
 ---
-<img src='/wp-content/camo_texture_01.jpg' alt='' />
+<img src='/images/camo_texture_01.jpg' alt='' />
 
 En la web del [AIGA][1], entre otros miles de cosas, hay un artículo la mar de interesante sobre ["El Arte del Camuflaje" (<em>"The Art of Camo"</em>)][2].
 

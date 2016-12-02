@@ -7,7 +7,7 @@ layout: post
 guid: http://sofanaranja.com/2007/06/15/mejora-tu-productividad-con-la-carpeta-current/
 permalink: /2007/06/15/mejora-tu-productividad-con-la-carpeta-current/
 onswipe_thumb:
-  - 'http://sofanaranja.com/wp-content/plugins/onswipe/thumb/thumb.php?src=/images/2007/06/escritorio-minimalista.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - 'http://sofanaranja.com/images/plugins/onswipe/thumb/thumb.php?src=/images/2007/06/escritorio-minimalista.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
   - Mac
   - Productividad

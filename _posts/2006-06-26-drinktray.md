@@ -18,4 +18,4 @@ Todo el mundo tiene un amigo que, objetivamente, no le conviene. A pesar de ello
 
 Jaime, va por tí! :D
 
-<img src='/wp-content/drinktray.jpg' alt='DrinkTray' />
+<img src='/images/drinktray.jpg' alt='DrinkTray' />

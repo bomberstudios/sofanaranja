@@ -12,4 +12,4 @@ categories:
 ---
 ¿Entre los requisitos no ponen “saber usar el corrector ortográfico”?
 
-![Se busca diseñador wed](/wp-content/se_busca_disenador_wed.png)
+![Se busca diseñador wed](/images/se_busca_disenador_wed.png)

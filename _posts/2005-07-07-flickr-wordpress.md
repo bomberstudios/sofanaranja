@@ -19,7 +19,7 @@ Afortunadamente aún queda gente amable en el mundo, y Nick Bouton se ha currado
 
 La instalación es una pequeña pesadilla, pero al final merece la pena:
 
-<a href="http://www.flumo.com/photos" target="_blank"><img src="/wp-content/flickrwordpress-02.png"/></a>
+<a href="http://www.flumo.com/photos" target="_blank"><img src="/images/flickrwordpress-02.png"/></a>
 
 [1]: http://www.worrad.com/archives/2005/01/08/flickr-gallery-07/
 [2]: http://www.dreamhost.com

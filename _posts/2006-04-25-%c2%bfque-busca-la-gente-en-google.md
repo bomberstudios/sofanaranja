@@ -17,7 +17,7 @@ Todo el que tenga una web y un sistema de estadísticas lo ha flipado alguna vez
 
 Quería escribir un sesudo post con las palabras más comunes que traen visitas a Sofá Naranja, pero es que al ver esto:
 
-<img src='/wp-content/fabrica_de_condones_en_rubi.PNG' alt='' />
+<img src='/images/fabrica_de_condones_en_rubi.PNG' alt='' />
 
 no he podido evitar desencajarme una costilla de risa, y tenía que postearlo...
 
@@ -25,14 +25,14 @@ Algún día prometo publicar la lista completa (que, adelanto, no tiene desperdi
 
 **Update:** La peña *nunca* dejará de sorprenderme:
 
-<img src='/wp-content/mint_searches_google_001.png' alt='' />
+<img src='/images/mint_searches_google_001.png' alt='' />
 
-<img src='/wp-content/mint_searches_google_002.png' alt='' />
+<img src='/images/mint_searches_google_002.png' alt='' />
 
 **Más updates:**
 
-<img src='/wp-content/como_joder_a_tu_compaero_de_piso_01.png' alt='Las cosas que busca la pe&Atilde;&plusmn;a en google' />
+<img src='/images/como_joder_a_tu_compaero_de_piso_01.png' alt='Las cosas que busca la pe&Atilde;&plusmn;a en google' />
 
 **Que no decaiga:**
 
-<img src='/wp-content/maquinaria_para_la_fabricacion_de_condones.png' alt='' />
+<img src='/images/maquinaria_para_la_fabricacion_de_condones.png' alt='' />

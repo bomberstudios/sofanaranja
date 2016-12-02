@@ -13,7 +13,7 @@ categories:
 ---
 Acaba de salir la nueva versión de [Art Directors Toolkit][1].
 
-<img src='/wp-content/adt5.png' alt='' />
+<img src='/images/adt5.png' alt='' />
 
 Para los que no lo conozcan, ADT es una de esas herramientas imprescindibles si diseñas que hacen que usar un Mac sea una maravilla. Apple incluye ADT en los PowerBook y PowerMac, así que si tienes uno y nunca te habías parado a mirar en la carpeta "Aplicaciones", te debes a tí mism@ echarle una ojeada (yo ya no sabría vivir sin él)
 

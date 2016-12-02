@@ -15,13 +15,13 @@ categories:
 
 El problema de Locomotive (alguno tenía que tener) es que el icono es demencialmente feo:
 
-<img src="/wp-content/icons/Locomotive.png" />
+<img src="/images/icons/Locomotive.png" />
 
 Así que uno, que tiene cierto aprecio por sus retinas, no tiene más remedio que hacerse un iconillo para reemplazarlo:
 
-<img src="/wp-content/icons/Ruby_128x128.png" />
+<img src="/images/icons/Ruby_128x128.png" />
 
-<a href="/wp-content/icons/Locomotive.icns.zip">El icono, propiamente dicho</a>
+<a href="/images/icons/Locomotive.icns.zip">El icono, propiamente dicho</a>
 
 Para cambiar el icono de Locomotive, selecciona la aplicación, haz click con el botón derecho del ratón y selecciona "Show Package Contents". Arroja el icono en la carpeta Contents » Resources, sobreescribiendo el fichero que ya existe.
 

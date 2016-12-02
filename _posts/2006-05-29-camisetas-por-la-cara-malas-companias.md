@@ -12,8 +12,8 @@ categories:
   - Diseño
   - Mis proyectos
 ---
-<img src='/wp-content/sn_camisetas_003_malas_comp.png' alt='' />
+<img src='/images/sn_camisetas_003_malas_comp.png' alt='' />
 
 Las palabras sobran...
 
-<a href="/wp-content/sn_camisetas_003_malas_comp.pdf">El diseño en PDF</a>
+<a href="/images/sn_camisetas_003_malas_comp.pdf">El diseño en PDF</a>

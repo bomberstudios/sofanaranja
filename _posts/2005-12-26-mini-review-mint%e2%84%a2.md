@@ -24,11 +24,11 @@ Y ahí está la única pega. El resto del sistema está tan bien hecho, funciona
 
 Un vistazo a Mint™:
 
-<img src="/wp-content/mint_01.png" alt="" />
+<img src="/images/mint_01.png" alt="" />
 
 Para los curiosos, aquí va una captura completa de las estadísticas de Sofá Naranja:
 
-<a href="/wp-content/mint_full.png"><img src="/wp-content/mint_full.jpg" alt="" border="0" /></a>
+<a href="/images/mint_full.png"><img src="/images/mint_full.jpg" alt="" border="0" /></a>
 
 Una de las ventajas de Mint™ es el soporte para plugins ("peppers") que amplían la funcionalidad del producto de una forma infinita (o al menos todo lo infinita que pueda ser la funcionalidad de un programa de estadísticas)
 

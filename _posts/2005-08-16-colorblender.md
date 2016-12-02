@@ -11,7 +11,7 @@ categories:
 ---
 Un generador de paletas de colores automático, via web: [ColorBlender][1]
 
-<img src="/wp-content/thumb-colorblend.png" />
+<img src="/images/thumb-colorblend.png" />
 
 Es el hermano mayor de [ColorMatch 5K][2] (que aunque tiene menos funcionalidades, es *mucho* más rapido que ColorBlender, algo que es un mal endémico en el mundo del software...)
 

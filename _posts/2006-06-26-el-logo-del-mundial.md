@@ -12,4 +12,4 @@ categories:
 ---
 Mira que dije que no iba a hablar del mundial, pero es que está en todas partes...
 
-<img src='/wp-content/fifa_world_cup_2006.png' alt='FIFA va Matutano' />
+<img src='/images/fifa_world_cup_2006.png' alt='FIFA va Matutano' />

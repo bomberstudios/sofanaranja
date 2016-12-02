@@ -17,6 +17,6 @@ Si escribes HTML y usas [TextMate](http://macromates.com/), hazte un favor a ti 
 * Actualiza a la última versión de HTML.bundle
 * Selecciona "Bundles » HTML » Includes » About Persistent Includes" y lee mientras babeas...
 
-![About Persistent Includes](/wp-content/about_persistent_includes.png)
+![About Persistent Includes](/images/about_persistent_includes.png)
 
 Si alguna vez tengo hijos, uno se llamará Allan...

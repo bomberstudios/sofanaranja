@@ -16,6 +16,6 @@ El tipo contó la historia en <a href="http://lacoctelera.com/nomelocreo">su blo
 
 A pesar de que ni El Mundo ni El País enlazaron al blog, esta semana nos hemos encontrado con esta sorpresita:
 
-<img src='/wp-content/web_semantica.png' alt='' />
+<img src='/images/web_semantica.png' alt='' />
 
 Sabíamos que La Coctelera indexa bien, pero aparecer por delante de dos pesos pesados de la comunicación digital en España con una búsqueda tan genérica es algo que nos llena de orgullo :D

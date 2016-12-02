@@ -15,8 +15,8 @@ Para la segunda entrega de la colección Camisetas Por La Cara™, nada mejor qu
 
 Basta de camisetas de Firefox. Sí, es un buen navegador, pero lo que necesitamos no es cantar las alabanzas de un producto, sino airear nuestras frustraciones con otro:
 
-<img src='/wp-content/sn_camisetas_002_ie.png' alt='Me cago en Internet Explorer' />
+<img src='/images/sn_camisetas_002_ie.png' alt='Me cago en Internet Explorer' />
 
 Véase que obviamos versiones, ya que nuestras esperanzas de que las próximas revisiones hagan de Explorer un *gran* navegador son más bien nulas...
 
-Como siempre, <a href='/wp-content/sn_camisetas_002_ie.pdf' title=''>el diseño en PDF</a>
+Como siempre, <a href='/images/sn_camisetas_002_ie.pdf' title=''>el diseño en PDF</a>

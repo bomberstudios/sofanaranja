@@ -13,6 +13,6 @@ Sofá Naranja, telefono... ¿naranja? :D
 
 No hay fecha de salida, pero me temo que este trasto ya tiene un sitio en mi corazón...
 
-<img src='/wp-content/050814_w550i.png' alt='' />
+<img src='/images/050814_w550i.png' alt='' />
 
 Aparte de toda la parafernalia habitual en este tipo de teléfonos (mp3, cámara, bluetooth...), tiene soporte Java, SVG y Flash Lite (a ver si cuela en el presupuesto de "plataforma de desarrollo" :-)

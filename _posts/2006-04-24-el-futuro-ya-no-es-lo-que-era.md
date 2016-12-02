@@ -11,4 +11,4 @@ categories:
 ---
 En pleno siglo XXI, ¿dónde están los coches voladores o el teletransporte?
 
-<img src='/wp-content/el_futuro_ya_no_es_lo_que_era.png' alt='El futuro ya no es lo que era' />
+<img src='/images/el_futuro_ya_no_es_lo_que_era.png' alt='El futuro ya no es lo que era' />

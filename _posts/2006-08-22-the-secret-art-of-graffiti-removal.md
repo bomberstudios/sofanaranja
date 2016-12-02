@@ -14,11 +14,11 @@ Hace unos días descubrí un documental, <a href="http://www.rodeofilmco.com/fil
 
 El documental destila un humor tan fino y tan sutil que yo diría que es una obra maestra. Explicar que esto:
 
-<img src='/wp-content/graffiti_removal_01.png' alt='' />
+<img src='/images/graffiti_removal_01.png' alt='' />
 
 y esto
 
-<img src='/wp-content/graffiti_removal_02.png' alt='' />
+<img src='/images/graffiti_removal_02.png' alt='' />
 
 vienen a ser dos caras de la misma moneda es, simplemente, genial.
 

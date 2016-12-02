@@ -4,7 +4,7 @@ title: Mini-curso de Quicksilver
 date: 2006-09-08T16:28:49+00:00
 author: Ale Muñoz
 excerpt: |
-  <img src="/wp-content/icon_qs.png" alt="Quicksilver" />
+  <img src="/images/icon_qs.png" alt="Quicksilver" />
   
   <a href="http://quicksilver.blacktree.com/">Quicksilver</a> es uno de esos programas que te cambian la vida (y una razón poderosa para preferir un Mac a un PC).
   
@@ -21,13 +21,13 @@ layout: post
 guid: http://sofanaranja.com/2006/09/08/mini-curso-de-quicksilver/
 permalink: /2006/09/08/mini-curso-de-quicksilver/
 onswipe_thumb:
-  - /wp-content/icon_qs.png
+  - /images/icon_qs.png
 categories:
   - Mac
   - Mis proyectos
   - Quicksilver
 ---
-<img src="/wp-content/icon_qs.png" alt="Quicksilver" />
+<img src="/images/icon_qs.png" alt="Quicksilver" />
 
 <a href="http://quicksilver.blacktree.com/">Quicksilver</a> es uno de esos programas que te cambian la vida (y una razón poderosa para preferir un Mac a un PC).
 

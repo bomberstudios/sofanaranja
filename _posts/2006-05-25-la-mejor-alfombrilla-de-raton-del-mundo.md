@@ -11,7 +11,7 @@ layout: post
 guid: http://www.sofanaranja.com/?p=73
 permalink: /2006/05/25/la-mejor-alfombrilla-de-raton-del-mundo/
 onswipe_thumb:
-  - /wp-content/mousepad_001.jpg
+  - /images/mousepad_001.jpg
 categories:
   - Diseño
   - Freak
@@ -29,23 +29,23 @@ No es que no funcione (eso sería más relajante). Lo que pasa es que medio-func
 
 Andaba hoy ordenando mi mesa cuando me he encontrado con esto:
 
-<img src='/wp-content/mousepad_001.jpg' alt='' />
+<img src='/images/mousepad_001.jpg' alt='' />
 
 Si, es una carpetilla de plástico cutre, de las que venden a 1 euro la tonelada en cualquier papelería de barrio.
 
 Uno, que es como es y ha usado casi de todo como alfombrilla de ratón, no tuvo que pensarlo mucho para probar qué tal funcionaría aquello como alfombrilla...
 
-<img src='/wp-content/mousepad_002.jpg' alt='' />
+<img src='/images/mousepad_002.jpg' alt='' />
 
 Resultado: **impresionante**. Tacto perfecto. Grosor perfecto. Precio imbatible.
 
 Ventajas añadidas... al ser una carpetilla transparente, puedes poner dentro tu foto favorita:
 
-<img src='/wp-content/mousepad_003.jpg' alt='' />
+<img src='/images/mousepad_003.jpg' alt='' />
 
 o tu lista de tareas pendientes:
 
-<img src='/wp-content/mousepad_004.jpg' alt='' />
+<img src='/images/mousepad_004.jpg' alt='' />
 
 Por aquí ya hay quien ha caído rendido a las excelencias de la Alfombrilla-Carpetilla™
 

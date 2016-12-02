@@ -13,7 +13,7 @@ categories:
 ---
 Movido por el éxito en Google del <a href="/2005/11/05/el-arte-del-camuflaje/">mini-post sobre "El Arte del Camuflaje"</a> (y por una malsana obsesión por el arte generativo, la programación y el automatismo), acabo de poner online una pequeña aplicación para generar patrones de "camuflaje" (entendido esto en el más amplio sentido de la palabra): <a href="/camobuilder/">CamoBuilder™</a>
 
-<a href="/camobuilder/"><img src='/wp-content/thumb-camo_v02.png' alt='CamoBuilder v0.2' border="0" /></a>
+<a href="/camobuilder/"><img src='/images/thumb-camo_v02.png' alt='CamoBuilder v0.2' border="0" /></a>
 
 
 Se admiten todo tipo de sugerencias para mejoras. Algunas que ya están en la lista de tareas:

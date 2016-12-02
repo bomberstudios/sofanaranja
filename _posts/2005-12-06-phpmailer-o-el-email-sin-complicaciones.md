@@ -7,7 +7,7 @@ layout: post
 guid: http://www.sofanaranja.com/?p=35
 permalink: /2005/12/06/phpmailer-o-el-email-sin-complicaciones/
 onswipe_thumb:
-  - /wp-content/mailer_004.png
+  - /images/mailer_004.png
 categories:
   - Código
   - PHP
@@ -23,7 +23,7 @@ Para un proyectillo que tenía entre manos (un mini-gestor de listas de correo) 
 
 Con lo cual, he acabado fabricándome mi propio gestor de listas de correo, con soporte para plantillas, base de datos de destinatarios, y archivo de los emails enviados (y de paso con un poquito de AJAX : )
 
-![Mailer001](/wp-content/mailer_004.png)
+![Mailer001](/images/mailer_004.png)
 
 Investigando gestores de listas OpenSource me he encontrado con [PHPMailer][1], una clase PHP que se encarga de gestionar *todo* lo que convierte al envío de emails en HTML en una pesadilla, para dejarte pensar en cosas más interesantes (como, por ejemplo, el contenido de tus boletines de noticias : )
 
@@ -80,7 +80,7 @@ En el código hay un par de cosillas que usan [ezSQL][2], pero de esa otra marav
 
 El resultado, una cosilla así:
 
-![Mailer002](/wp-content/mailer_002.png)
+![Mailer002](/images/mailer_002.png)
 
 Si tu próximo proyecto tiene algo que ver con email y usas PHP, te debes a tí mism@ echarle un vistazo a PHPMailer.
 

@@ -17,7 +17,7 @@ categories:
 ---
 Una imagen vale más que mil palabras...
 
-<img src='/wp-content/050814_studio8.png' alt='' />
+<img src='/images/050814_studio8.png' alt='' />
 
 En fin... fué bonito mientras duró (10 años ya, oiga...)
 

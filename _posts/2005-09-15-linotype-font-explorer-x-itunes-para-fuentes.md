@@ -4,7 +4,7 @@ title: 'Linotype Font Explorer X: iTunes para fuentes'
 date: 2005-09-15T10:21:36+00:00
 author: Ale Muñoz
 excerpt: |
-  <img src='/wp-content/fexicon.png' alt='' />
+  <img src='/images/fexicon.png' alt='' />
   
   Si te dedicas a esto del diseño desde hace tiempo, lo normal es que tengas una colección tipográfica más o menos respetable. Para gestionar tal cantidad de fuentes, lo más probable es que uses algún tipo de gestor.
   
@@ -26,7 +26,7 @@ categories:
   - Imprescindible
   - Software
 ---
-<img src='/wp-content/fexicon.png' alt='' />
+<img src='/images/fexicon.png' alt='' />
 
 Si te dedicas a esto del diseño desde hace tiempo, lo normal es que tengas una colección tipográfica más o menos respetable. Para gestionar tal cantidad de fuentes, lo más probable es que uses algún tipo de gestor.
 

@@ -9,7 +9,7 @@ permalink: /2005/12/22/ano-nuevo-curro-nuevo/
 categories:
   - Personal
 ---
-<img src='/wp-content/new_job.jpg' alt='' />
+<img src='/images/new_job.jpg' alt='' />
 
 Pues eso... para estrenar el año como dios manda, nada como cambiar de trabajo (y de ciudad).
 
@@ -19,4 +19,4 @@ Más detalles, en cuanto me dejen abrir la boca ;D
 
 **Update:** abierta se me ha quedado la boca cuando he visto esto:
 
-<img src='/wp-content/svq_vs_bcn.png' alt='' />
+<img src='/images/svq_vs_bcn.png' alt='' />

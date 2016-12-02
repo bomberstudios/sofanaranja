@@ -13,6 +13,6 @@ categories:
 ---
 Este va a ser un post corto:
 
-<img src='/wp-content/macbookpro2.jpg' alt='' />
+<img src='/images/macbookpro2.jpg' alt='' />
 
 Felicidades, Apple. Ahora hacedme el favor de sacar uno de 12" :P

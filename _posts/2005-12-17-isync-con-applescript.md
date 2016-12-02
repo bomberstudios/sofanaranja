@@ -17,13 +17,13 @@ Sin embargo, con la versión 10.4 (Tiger) del sistema operativo, Apple ha modifi
 
 Si seleccionas en las preferencias de iSync "Show status in menu bar", aparecerá un icono mediante el cual puedes sincronizar tu gadget favorito desde cualquier aplicación.
 
-<img src='/wp-content/isync_prefs.png' alt='' />
+<img src='/images/isync_prefs.png' alt='' />
 
 Lo probarás, veras que funciona muy bien, y te olvidarás del tema.
 
 Hasta que otro día selecciones "Sync Now" y te escames de que tu teléfono parece no hacer nada... El icono se mueve, aquello parece que progresa adecuadamente, y ni siquiera aparece un mensaje de error.
 
-<img src='/wp-content/isync_menu_item.png' alt='' />
+<img src='/images/isync_menu_item.png' alt='' />
 
 Lo más probable es que se te olvide el incidente hasta que unos días después, en plena vorágine de trabajo, te des cuenta de que en tu PDA/móvil/smartphone faltan tareas, citas...
 
@@ -37,7 +37,7 @@ La solución viene (como casi siempre que uno se pone a enredar con Mac OS X) de
 
 Esto que viene a continuación es un pequeño script que sustituye a la opción "Sync Now" (y de paso te ahorras unos valiosos pixels en la barra de menú : )
 
-<img src='/wp-content/scripts_menu_item.png' alt='' />
+<img src='/images/scripts_menu_item.png' alt='' />
 
 	tell application "iSync"
 		activate
@@ -51,6 +51,6 @@ Esto que viene a continuación es un pequeño script que sustituye a la opción 
 
 Si guardas el script en /Users/usuario/Library/Scripts/ y activas el menú de scripts, tendrás la misma funcionalidad que con el menú de iSync (con la ventaja añadida de que funciona : )
 
-<img src='/wp-content/scripts_location.png' alt='' />
+<img src='/images/scripts_location.png' alt='' />
 
 Que aproveche...

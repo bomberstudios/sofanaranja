@@ -22,7 +22,7 @@ Una baraja de Oblique Strategies puede costarte entre 30 y 1500 euros (dependien
 
 O la puedes tener gratis en un Widget de Dashboard: [Oblique][5] :D
 
-<img src="/wp-content/widget_oblique.jpg"/>
+<img src="/images/widget_oblique.jpg"/>
 
 Ya tardan en bajarselo...
 

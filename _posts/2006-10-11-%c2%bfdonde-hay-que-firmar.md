@@ -11,7 +11,7 @@ categories:
 ---
 Me ponga cuarto y mitad, ya mismo...
 
-![¡Pedazo de oferta, oiga!](/wp-content/pedazo_de_oferta_oiga.png)
+![¡Pedazo de oferta, oiga!](/images/pedazo_de_oferta_oiga.png)
 
 Me pregunto yo (desde hace años)... ¿hay alguna manera de hacer algo **efectivo** para solucionar este tipo de cosas, más allá de escribir un mail poniendo a caldo a la empresa y postear en un blog?
 

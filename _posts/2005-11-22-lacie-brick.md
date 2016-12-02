@@ -13,7 +13,7 @@ categories:
 ---
 Los colegas de LaCie, no contentos con fabricar los mejores discos duros externos del mundo, presentan un producto que va directo a mi lista de deseos: LaCie Brick, un híbrido entre almacén de datos y Lego.
 
-<img src='/wp-content/hd_brick_desktop_bluered.jpg' alt='' />
+<img src='/images/hd_brick_desktop_bluered.jpg' alt='' />
 
 El principal inconveniente es que (aparentemente) no los fabrican en versión FireWire... (bueno, y que no lo tienen en naranja :)
 

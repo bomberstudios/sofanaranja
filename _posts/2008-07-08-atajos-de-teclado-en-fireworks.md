@@ -7,7 +7,7 @@ layout: post
 guid: http://sofanaranja.com/?p=247
 permalink: /2008/07/08/atajos-de-teclado-en-fireworks/
 onswipe_thumb:
-  - 'http://sofanaranja.com/wp-content/plugins/onswipe/thumb/thumb.php?src=/images/2008/07/picture-85.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - 'http://sofanaranja.com/images/plugins/onswipe/thumb/thumb.php?src=/images/2008/07/picture-85.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
   - Código
   - Productividad

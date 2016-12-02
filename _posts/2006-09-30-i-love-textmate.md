@@ -20,6 +20,6 @@ Y he decidido que no le llegan ni a la suela de los zapatos a [TextMate](http://
 
 La combinación de TextMate (con unas funciones tan increíblemente útiles como “enlaza esta palabra con el primer resultado que aparezca en Google cuando la buscas”) y [QuickSilver](http://quiksilver.blacktree.com/) (con un trigger personalizado que inserta en el texto la URL de la web que tenga abierta en Safari) deja en ridículo a programas dedicados que cuestan una pasta absurda (para hacer lo que hacen como lo hacen)
 
-![TextMate en acción](/wp-content/textmate_en_accion.png)
+![TextMate en acción](/images/textmate_en_accion.png)
 
 Post patrocinado por “Programas que valen más de lo que cuestan™”

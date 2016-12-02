@@ -10,7 +10,7 @@ categories:
   - Diseño
   - Hardware
 ---
-<img src='/wp-content/thumb-32245532_bb7546df2b.jpg' alt='Apple Mighty Mouse' />
+<img src='/images/thumb-32245532_bb7546df2b.jpg' alt='Apple Mighty Mouse' />
 
 La semana pasada Apple presentaba un producto que, para algunos, representa la sumisión de la compañía al clamor del pueblo: "queremos un ratón con dos botones y rueda de scroll!".
 

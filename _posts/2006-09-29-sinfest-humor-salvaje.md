@@ -15,7 +15,7 @@ No es el clásico sitio “trendy”. De hecho es bastante salvaje, y ni siquier
 
 Pero es que la tira de cómic vale su peso en oro:
 
-![Tira de Sinfest del 29 de Septiembre de 2006](/wp-content/tira_de_sinfest_del_29_de_septiembre_de_2006.gif)
+![Tira de Sinfest del 29 de Septiembre de 2006](/images/tira_de_sinfest_del_29_de_septiembre_de_2006.gif)
 
 Eso sí, no es recomendable para espíritus sensibles (o sí, siempre que no leas los textos... :)
 

@@ -7,7 +7,7 @@ layout: post
 guid: http://sofanaranja.com/2009/02/13/fundamentos-de-diseno-expresa-claramente-tu-intencion/
 permalink: /2009/02/13/fundamentos-de-diseno-expresa-claramente-tu-intencion/
 onswipe_thumb:
-  - 'http://sofanaranja.com/wp-content/plugins/onswipe/thumb/thumb.php?src=/images/2009/02/fd-alineacion.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
+  - 'http://sofanaranja.com/images/plugins/onswipe/thumb/thumb.php?src=/images/2009/02/fd-alineacion.png&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 categories:
   - Diseño
 tags:

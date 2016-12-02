@@ -11,7 +11,7 @@ categories:
   - Mis proyectos
   - Software
 ---
-<img src='/wp-content/tck_aula.jpg' alt='Aula Coctelera' />
+<img src='/images/tck_aula.jpg' alt='Aula Coctelera' />
 
 Esta tarde, a las 19:30 en el Aula Coctelera™ tendremos una mini party de TextMate.
 

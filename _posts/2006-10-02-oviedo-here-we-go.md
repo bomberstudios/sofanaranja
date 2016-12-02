@@ -9,7 +9,7 @@ permalink: /2006/10/02/oviedo-here-we-go/
 categories:
   - Personal
 ---
-![Fundamentos Web 2006](/wp-content/fundamentos_web_2006.png)
+![Fundamentos Web 2006](/images/fundamentos_web_2006.png)
 
 Mañana empieza [Fundamentos Web](http://www.fundamentosweb.org/), y [La Gran Corporación](http://the-cocktail.com) andará por allí dando la brasa...
 

@@ -7,12 +7,12 @@ layout: post
 guid: http://sofanaranja.com/2006/10/09/coser-y-cantar/
 permalink: /2006/10/09/coser-y-cantar/
 onswipe_thumb:
-  - /wp-content/coser_y_cantar.jpg
+  - /images/coser_y_cantar.jpg
 categories:
   - Mis proyectos
   - Personal
 ---
-![Coser y cantar](/wp-content/coser_y_cantar.jpg)
+![Coser y cantar](/images/coser_y_cantar.jpg)
 
 A veces es bonito hacer cosas con tus propias manos (y cuando digo “cosas” no me refiero a “ficheros” :)
 

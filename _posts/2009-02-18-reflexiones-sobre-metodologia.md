@@ -20,25 +20,25 @@ Sin llegar a la elegante simplicidad de la [metodología de software simplificad
 
 1. **Escucha**
 
-  Este es el momento en que conoces a tu cliente, te sientas en su despacho, caminas por sus oficinas, ves cómo viste, cómo habla, cómo camina, cómo gesticula, en qué términos habla de su empresa y de su producto, qué gadgets tiene, de qué color es su corbata...
+    Este es el momento en que conoces a tu cliente, te sientas en su despacho, caminas por sus oficinas, ves cómo viste, cómo habla, cómo camina, cómo gesticula, en qué términos habla de su empresa y de su producto, qué gadgets tiene, de qué color es su corbata...
 
-  Es el momento en que le dices "cuéntamelo todo", preguntas 100 veces "¿por qué?" y "¿para qué?", y **entiendes el problema**.
+    Es el momento en que le dices "cuéntamelo todo", preguntas 100 veces "¿por qué?" y "¿para qué?", y **entiendes el problema**.
 
-  Con suerte, además, has visto la solución (o sabes a qué se parece).
+    Con suerte, además, has visto la solución (o sabes a qué se parece).
 
 2. **Piensa**
 
-  Aquí es cuando contemplas el problema en su contexto, con todas sus implicaciones, elaboras hipótesis y las contrastas con tu cliente.
+    Aquí es cuando contemplas el problema en su contexto, con todas sus implicaciones, elaboras hipótesis y las contrastas con tu cliente.
 
-  Es el momento en que tú le vuelves a contar al cliente cual es el problema que hay que resolver. Con suerte es el mismo que él te contó, pero no descartes que sea otro distinto.
+    Es el momento en que tú le vuelves a contar al cliente cual es el problema que hay que resolver. Con suerte es el mismo que él te contó, pero no descartes que sea otro distinto.
 
 3. **Ejecuta**
 
-  Porque la mejor idea no sirve para nada si no se implementa, ya sabes.
+    Porque la mejor idea no sirve para nada si no se implementa, ya sabes.
 
 4. **Presenta**
 
-  Que es cuando tu brillante idea y tu impecable ejecución se unen a tu capacidad de seducción para intentar que el cliente "compre" tu propuesta, cuando vuelves a escuchar todo lo que tenga que decir, y cuando intercambias información más detallada sobre el proyecto.
+    Que es cuando tu brillante idea y tu impecable ejecución se unen a tu capacidad de seducción para intentar que el cliente "compre" tu propuesta, cuando vuelves a escuchar todo lo que tenga que decir, y cuando intercambias información más detallada sobre el proyecto.
 
 
 Este ciclo que se repite ad-infinitum hasta que se acaba el proyecto, el plazo, o el presupuesto, lo que ocurra primero.
